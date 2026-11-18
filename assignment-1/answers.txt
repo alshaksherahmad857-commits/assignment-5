@@ -1,2 +1,0 @@
-Browser Tab: title
-العنوان الرئيسي: h1
